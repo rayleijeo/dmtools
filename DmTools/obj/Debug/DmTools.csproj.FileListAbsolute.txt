@@ -1,9 +1,0 @@
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\bin\Debug\DmTools.exe.config
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\obj\Debug\DmTools.csprojResolveAssemblyReference.cache
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\obj\Debug\DmTools.Form1.resources
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\obj\Debug\DmTools.Properties.Resources.resources
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\obj\Debug\DmTools.csproj.GenerateResource.Cache
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\bin\Debug\DmTools.exe
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\bin\Debug\DmTools.pdb
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\obj\Debug\DmTools.exe
-C:\Users\双磊\documents\visual studio 2012\Projects\DmTools\DmTools\obj\Debug\DmTools.pdb
